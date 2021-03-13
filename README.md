@@ -1,6 +1,6 @@
 ## A Basic Machine Learning Model using Multivariate Regression
 
-Here we will be looking at the various basic data cleaning techniques, visualization techiniques and then finally build a model, to predict the profits of new startup companies, using Multivariate Regression(a type of linear regression in which more than one independent variable (predictors) and more than one dependent variable (responses), are linearly related).
+Here we will be looking at the various basic data cleaning techniques, visualization techiniques and then finally build a model, to predict the profits of new startup companies, using Multivariate Regression(a type of linear regression in which more than one independent variable (predictors) and more than one dependent variable (responses), are linearly related). The dataset is provided above in the repository for you to download and follow along.
 
 Multivariate Regression in a quadratic equation is of the form
 
