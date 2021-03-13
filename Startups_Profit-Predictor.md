@@ -485,7 +485,8 @@ plt.show()
 
 
     
-![png](output_11_1.png)
+![output_11_1](https://user-images.githubusercontent.com/50414959/111037162-f782fa80-8448-11eb-9aa0-d3d1019b1b36.png)
+
     
 
 
@@ -500,7 +501,7 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![output_12_0](https://user-images.githubusercontent.com/50414959/111037169-010c6280-8449-11eb-9615-131a624971e4.png)
     
 
 
@@ -520,7 +521,8 @@ sns.lmplot(x='R&D Spend', y='Profit', data=df).fig.suptitle("Plot between R&d Sp
 
 
     
-![png](output_13_1.png)
+![output_13_1](https://user-images.githubusercontent.com/50414959/111037178-0e295180-8449-11eb-97bd-1d5b291097b6.png)
+
     
 
 
@@ -540,7 +542,8 @@ fig.suptitle("Plot between Administration Spendings and Profit", fontsize=12)
 
 
     
-![png](output_14_1.png)
+![output_14_1](https://user-images.githubusercontent.com/50414959/111037186-15e8f600-8449-11eb-9e29-f1005630208f.png)
+
     
 
 
@@ -558,7 +561,8 @@ sns.lmplot(x='Marketing Spend', y='Profit', data=df).fig.suptitle("Plot between 
 
 
     
-![png](output_15_1.png)
+![output_15_1](https://user-images.githubusercontent.com/50414959/111037199-1c776d80-8449-11eb-9f46-a6132924df28.png)
+
     
 
 
@@ -922,7 +926,8 @@ plt.show()
 
 
     
-![png](output_23_0.png)
+![output_23_0](https://user-images.githubusercontent.com/50414959/111037213-2ac58980-8449-11eb-8348-c5604387a94d.png)
+
     
 
 
